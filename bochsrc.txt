@@ -1,0 +1,5 @@
+megs: 32
+romimage: file=/usr/share/bochs/BIOS-bochs-latest, address=0xf0000
+vgaromimage: file=/usr/share/bochs/VGABIOS-lgpl-latest
+boot: disk
+floppya: 1_44=os-image.bin, status=inserted
